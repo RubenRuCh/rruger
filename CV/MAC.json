@@ -1,0 +1,108 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Rubén",
+      "surnames": "Rüger Chambra",
+      "description": "I'm a Full Stack Web Developer, trying to improve myself every day.\n\nAlthough I'm solvent in multiple technologies and stacks I'm currently focusing on modern solutions built with pure React ⚛ and Node (both with Typescript), giving top priority to deliver value to users through the quality and testability of the code using SOLID, TDD, Hexagonal Architecture and DDD 👌"
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rruger/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/RubenRuCh"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/rrugerdev"
+      },
+      {
+        "type": "other",
+        "URL": "https://rruger.dev/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      },
+      {
+        "name": "English"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS-(to delete)",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VanillaPHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lamp",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/rruger/"
+        }
+      ]
+    }
+  }
+}
