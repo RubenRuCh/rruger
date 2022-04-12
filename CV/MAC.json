@@ -282,6 +282,12 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Express",
           "type": "technology"
         }
@@ -307,6 +313,12 @@
       {
         "skill": {
           "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Makefile",
           "type": "technology"
         }
       },
