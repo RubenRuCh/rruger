@@ -168,6 +168,44 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "My portfolio",
+          "description": "",
+          "URL": "https://rruger.dev/",
+          "image": {
+            "alt": "logo2.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/7d5a7a4d-9058-464a-b843-dc783820f55f_logo2.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-12-01",
+            "competences": [
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
