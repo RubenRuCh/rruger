@@ -103,6 +103,66 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "2byte.es Soluciones Informáticas S.L.",
+          "image": {
+            "alt": "logo_2byte_peque.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/2359f830-f738-4433-a223-5b9bc8dadaf8_logo_2byte_peque.jpg"
+          },
+          "URL": "https://www.2byte.es/"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack Developer (ERP&CRM Dolibarr)",
+            "startDate": "2020-01-01",
+            "finishDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "- Development and maintenance of external modules and core of Dolibarr (Official Partner)\n- Custom developments with PHP (LAMP stack), JavaScript, jQuery, HTML and CSS\n- Conducting seminars, manuals and technical training"
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "CRM",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
