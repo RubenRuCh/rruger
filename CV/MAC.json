@@ -525,6 +525,36 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Principios SOLID aplicados",
+        "startDate": "2021-06-01",
+        "finishDate": "2021-06-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Clean Code, SOLID",
+          "URL": "https://pro.codely.tv/library/principios-solid-aplicados-36875/77070/about/",
+          "image": {
+            "alt": "course_principios_solid_aplicados.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/82480b12-50a6-4e36-b19a-055712ed58a1_course_principios_so.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
