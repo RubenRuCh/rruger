@@ -638,12 +638,6 @@
           "name": "Vue",
           "type": "technology"
         }
-      ],
-      "discardedCompetences": [
-        {
-          "name": "Python",
-          "type": "technology"
-        }
       ]
     }
   }
