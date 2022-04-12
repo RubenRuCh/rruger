@@ -461,6 +461,36 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Vue - The Complete Guide (w/ Router, Vuex, Composition API)",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "Udemy (Maximilian Schwarzmüller)",
+          "description": "Introduction to Vue, Vuex, Vue Router, Composition API, Animations, SPA",
+          "URL": "https://www.udemy.com/course/vuejs-2-the-complete-guide/",
+          "image": {
+            "alt": "course_vue_complete_guide.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/4ae3e9eb-1354-410f-aee7-0795de25947e_course_vue_complete_.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          },
+          {
+            "name": "Vuex",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
