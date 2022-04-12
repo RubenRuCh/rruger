@@ -47,6 +47,65 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Designable",
+          "image": {
+            "alt": "1617284896195.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/cb3e5e5a-84d2-455c-864b-e0ea60d0d446_1617284896195.jpg"
+          },
+          "URL": "https://www.designable.es/"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack developer",
+            "startDate": "2021-06-01",
+            "challenges": [
+              {
+                "description": "Development of multiple internal company applications. Definition and implementation of testing strategy. Innovation and research to apply concepts such as DDD and Hexagonal Architecture in complex and scalable projects\n\n- TypeScript\n- Frontend (React, Redux)\n- Backend (Node)\n- TDD\n- DDD\n- SOLID\n- Clean Code\n- Hexagonal Architecture"
+              }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "TypeORM",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
