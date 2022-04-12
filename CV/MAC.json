@@ -423,6 +423,44 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress",
+        "startDate": "2019-11-01",
+        "finishDate": "2020-01-01",
+        "institution": {
+          "name": "Udemy (Víctor Robles)",
+          "description": "Introduction to PHP, POO, MVC, Databases",
+          "URL": "https://www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress/",
+          "image": {
+            "alt": "course_master_php.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/d7295f3e-8ea2-4e3b-84b7-a406f4445e74_course_master_php.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Laravel",
+            "type": "technology"
+          },
+          {
+            "name": "Symfony",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "MVC",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
