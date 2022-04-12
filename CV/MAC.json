@@ -555,6 +555,40 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Testing: Introducción y buenas prácticas",
+        "startDate": "2021-12-01",
+        "finishDate": "2022-01-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Unit testing, Integration testing, Acceptance testing, Test Pyramid, Object Mother, Fakes, Stubs, Mocks, Dummy, Spy, Flaky tests, SRP in testing, Given-When-Then, Arrange-Act-Assert, Development flow, TDD, Refactoring, Testing legacy code, Continuous Integration",
+          "URL": "https://pro.codely.tv/library/testing-introduccion-y-buenas-practicas-44653/90916/about/",
+          "image": {
+            "alt": "course_testing_buenas_practicas.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/efb19c3f-60ca-4935-8a77-e35de629e509_course_testing_buena.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
