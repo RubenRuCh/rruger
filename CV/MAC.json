@@ -320,6 +320,90 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "CFGS DAW (Web applications development)",
+        "startDate": "2019-09-01",
+        "finishDate": "2021-05-01",
+        "institution": {
+          "name": "IES María Enríquez",
+          "description": "",
+          "URL": "https://portal.edu.gva.es/mariaenriquez/",
+          "image": {
+            "alt": "cropped-Logo-ME-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/3f3f8ee3-b6b6-45fd-862b-d1a9c1ea21b0_cropped-logo-me-1.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Laravel",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "NoSQL",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio",
+            "type": "technology"
+          },
+          {
+            "name": "CodeIgniter",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
