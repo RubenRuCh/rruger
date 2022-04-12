@@ -491,6 +491,40 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "startDate": "2021-05-01",
+        "finishDate": "2021-06-01",
+        "institution": {
+          "name": "Udemy (Maximilian Schwarzmüller)",
+          "description": "Introduction to React, Redux, React Router, React Hooks, Custom Hooks, Animations, SPA, Testing",
+          "URL": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+          "image": {
+            "alt": "course_react_complete_guide.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/e3eeeb89-5ee6-461e-ab50-7fd6dc7ba8d0_course_react_complet.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
