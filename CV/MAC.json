@@ -45,6 +45,21 @@
         "topic": "My favorite music groups",
         "fact": "* Dream Theater\n* Tool\n* Opeth\n* Pain of Salvation\n* Les Discrets\n\n...or anything prog-related"
       }
+    ],
+    "recommendations": [
+      {
+        "title": "My learning resources",
+        "type": "other",
+        "URL": "https://rruger.dev/learning",
+        "authors": [
+          {
+            "name": "Rubén",
+            "surnames": "Rüger",
+            "title": "Author"
+          }
+        ],
+        "summary": "Compilation of the resources I use to learn"
+      }
     ]
   },
   "experience": {
