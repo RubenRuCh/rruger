@@ -660,6 +660,28 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "DDD en TypeScript: Modelado y arquitectura",
+        "startDate": "2022-01-01",
+        "finishDate": "2022-01-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Clean Architecture, Hexagonal Architecture, DDD, Bounded Contexts, Aggregates, Value Objects, Entities, Repository pattern, Shared Kernel, Object Mother, Testing, MongoDB, PostgreSQL, TypeORM, Outside-in",
+          "URL": "https://pro.codely.tv/library/ddd-en-typescript-modelado-y-arquitectura-172533/375662/about/",
+          "image": {
+            "alt": "course_ddd_typescript.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/11acf9c6-fbf9-4316-82fa-d30ef5e2b7fa_course_ddd_typescrip.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
