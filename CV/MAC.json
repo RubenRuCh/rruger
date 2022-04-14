@@ -604,6 +604,32 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Arquitectura Hexagonal",
+        "startDate": "2021-07-01",
+        "finishDate": "2021-11-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Clean Architecture, Hexagonal Architecture, Testing",
+          "URL": "https://pro.codely.tv/library/arquitectura-hexagonal-31201/66748/about/",
+          "image": {
+            "alt": "course_arquitectura_hexagonal.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/9f2e381b-536c-4a2c-9800-132881b6045e_course_arquitectura_.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
