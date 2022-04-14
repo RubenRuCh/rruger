@@ -38,6 +38,10 @@
     ],
     "interestingFacts": [
       {
+        "topic": "My favorite videogame sagas",
+        "fact": "* Golden Sun\n* Bravely Default\n* Fire Emblem\n* Castlevania\n* The Witcher\n* Kingdom Hearts\n* Final Fantasy\n\nand the list goes on!"
+      },
+      {
         "topic": "My favorite music groups",
         "fact": "* Dream Theater\n* Tool\n* Opeth\n* Pain of Salvation\n* Les Discrets\n\n...or anything prog-related"
       }
