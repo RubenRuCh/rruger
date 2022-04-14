@@ -630,6 +630,36 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Domain-Driven Design - DDD Aplicado",
+        "startDate": "2021-11-01",
+        "finishDate": "2021-11-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Clean Architecture, Hexagonal Architecture, DDD, Bounded Contexts, Aggregates, Value Objects, Entities, Repository pattern, Domain Events, Anticorruption Layer, Shared Kernel, CQRS, Read Model, Ubiquitous Language",
+          "URL": "https://pro.codely.tv/library/domain-driven-design-ddd-aplicado-42952/87157/about/",
+          "image": {
+            "alt": "course_ddd_aplicado.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/009cd61c-9f00-47a1-b0e7-219aaa3007c0_course_ddd_aplicado.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
