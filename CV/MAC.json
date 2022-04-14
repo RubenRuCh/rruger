@@ -708,6 +708,28 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "CQRS y Event Sourcing con Kotlin y Axon Framework",
+        "startDate": "2022-01-01",
+        "finishDate": "2022-01-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "DDD, CQRS, Event Sourcing, Event, EventBus, EventHandler, Replay, Upcasting",
+          "URL": "https://pro.codely.tv/library/cqrs-y-event-sourcing-con-kotlin-y-axon-framework-31950/67816/about/",
+          "image": {
+            "alt": "course_cqrs_event_sourcing.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/1a3ffb5e-af60-4ce1-b5c7-c27563407e1b_course_cqrs_event_so.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
