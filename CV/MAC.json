@@ -756,6 +756,32 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Symfony mantenible y escalable",
+        "startDate": "2022-03-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Symfony, Doctrine ORM, Testing, Behat, APIs HTTP, JWT, Monolog, Event Subscriber, Profiling, Docker, Blackfire, Symfony Flex",
+          "URL": "https://pro.codely.tv/library/symfony-mantenible-y-escalable-127478/308903/about/",
+          "image": {
+            "alt": "course_symfony_mantenible_escalable.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/e0207b35-b008-4413-9828-34cffeda3dde_course_symfony_mante.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Symfony",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
