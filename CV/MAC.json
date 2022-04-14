@@ -730,6 +730,32 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Comunicación entre microservicios: Event-Driven Architecture",
+        "startDate": "2022-02-01",
+        "finishDate": "2022-03-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Event-Driven Architecture, Services, Microservices, DDD, CQRS, Event, RabbitMQ, AWS, SNS",
+          "URL": "https://pro.codely.tv/library/comunicacion-entre-microservicios-event-driven-architecture-35834/74823/about/",
+          "image": {
+            "alt": "course_event_driven_architecture.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/52e8e90c-5b70-4e3b-a3fb-559bf7a7aa75_course_event_driven_.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
