@@ -308,12 +308,6 @@
       },
       {
         "skill": {
-          "name": "Redux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
