@@ -79,7 +79,7 @@
             "startDate": "2021-06-01",
             "challenges": [
               {
-                "description": "Development of multiple internal company applications. Definition and implementation of testing strategy. Innovation and research to apply concepts such as DDD and Hexagonal Architecture in complex and scalable projects\n\n- TypeScript\n- Frontend (React, Redux)\n- Backend (Node)\n- TDD\n- DDD\n- SOLID\n- Clean Code\n- Hexagonal Architecture"
+                "description": "Main individual contributor in the development process of multiple internal company applications. Definition and implementation of testing strategy. Using concepts such as DDD and Hexagonal Architecture to develop complex and scalable projects such as:\n\n- Sales portal: List of houses with lead capture and good UX practices for a correct flow of information.\n\n- Architecture backoffice: Main internal tool, where configurable buildings are uploaded by architects. In this part of the project, DDD has gained special importance, given the quantity and complexity of the domain rules that this type of modeling involves.\n\n- Sales backoffice: Optimized platform for the sales department, so they can carry out their processes quickly and effectively.\n\n\nTechonologies and design patterns:\n\n- TypeScript\n- Frontend (React, Redux)\n- Backend (Node)\n- TDD\n- DDD\n- SOLID\n- Clean Code\n- Hexagonal Architecture"
               }
             ],
             "competences": [
