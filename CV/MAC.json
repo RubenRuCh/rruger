@@ -9,10 +9,10 @@
       "name": "Rubén",
       "surnames": "Rüger Chambra",
       "title": "Aspiring Software Craftsman",
-      "description": "I'm a FullStack Web Developer, trying to improve myself every day.\n\nAlthough I'm solvent in multiple technologies and stacks I'm currently focusing on modern solutions built with pure React ⚛ and Node (both with Typescript), giving top priority to deliver value to users through the quality and testability of the code using SOLID, TDD, Hexagonal Architecture and DDD 👌",
+      "description": "I'm a FullStack Web Developer, trying to improve myself every day.\n\nAlthough I'm solvent in multiple technologies and stacks, I'm currently focusing on solutions built with pure React ⚛ and Node (both with Typescript), giving top priority to deliver value to users through the quality and testability of the code using SOLID, TDD, Hexagonal Architecture and DDD 👌",
       "avatar": {
-        "alt": "foto.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/d5d2ff4a-c7ec-48fc-98fe-bb5f770f95e7_foto.jpeg"
+        "alt": "profile_min.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/abfe8d81-1bab-4f1b-8d7c-808d03eab558_profile_min.png"
       },
       "location": {
         "notes": "Spain"
