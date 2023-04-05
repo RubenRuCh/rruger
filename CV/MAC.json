@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/abfe8d81-1bab-4f1b-8d7c-808d03eab558_profile_min.png"
       },
       "location": {
-        "notes": "Spain"
+        "country": "España",
+        "region": "Comunidad Valenciana",
+        "municipality": "Gandía",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -196,6 +199,7 @@
       {
         "details": {
           "name": "My portfolio",
+          "description": "",
           "URL": "https://rruger.dev/",
           "image": {
             "alt": "logo.png",
@@ -233,13 +237,27 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "PHP",
@@ -249,6 +267,30 @@
       {
         "skill": {
           "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
           "type": "technology"
         }
       },
@@ -266,19 +308,7 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
+          "name": "CSS",
           "type": "technology"
         }
       },
@@ -290,43 +320,7 @@
       },
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "REST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Makefile",
           "type": "technology"
         }
       },
@@ -338,13 +332,25 @@
       },
       {
         "skill": {
-          "name": "Vuex",
+          "name": "Jest",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Makefile",
           "type": "technology"
         }
       }
@@ -736,6 +742,7 @@
         "finishDate": "2021-05-01",
         "institution": {
           "name": "IES María Enríquez",
+          "description": "",
           "URL": "https://portal.edu.gva.es/mariaenriquez/",
           "image": {
             "alt": "cropped-Logo-ME-1.png",
@@ -842,7 +849,13 @@
           "name": "Vue",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }
