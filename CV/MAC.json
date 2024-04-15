@@ -249,109 +249,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cypress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Docker",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Makefile",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TestingLibrary",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vuex",
           "type": "technology"
         }
       }
@@ -890,6 +788,12 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "My dream job is to be part of a product-focused development team, giving maximum priority to delivering value to the user through constant releases, and producing code of quality and correctly tested.\n\nLeaving aside the technical aspect, I would be charmed if that development team were supported by a company / project that causes some kind of positive effect on society, while offering me a competitive salary with a good family balance, full remote work, and that allows me to grow professionally.\n\n",
     "goodPractices": "Hexagonal Architecture, SOLID, DDD, TDD, ATDD, CQRS, Event Sourcing",
     "projects": [
