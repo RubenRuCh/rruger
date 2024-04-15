@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -11,34 +11,16 @@
       "title": "Aspiring Software Craftsman",
       "description": "I'm a FullStack Web Developer, trying to improve myself every day.\n\nAlthough I'm solvent in multiple technologies and stacks, I'm currently focusing on solutions built with pure React ⚛ and Node (both with Typescript), giving top priority to deliver value to users through the quality and testability of the code using SOLID, TDD, Hexagonal Architecture and DDD 👌",
       "avatar": {
-        "alt": "profile_min.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/abfe8d81-1bab-4f1b-8d7c-808d03eab558_profile_min.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/abfe8d81-1bab-4f1b-8d7c-808d03eab558_profile_min.png",
+        "alt": "profile_min.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ27xZLTToYQ0RcWdI1pBvHoQ)",
         "country": "España",
         "region": "Comunidad Valenciana",
-        "municipality": "Gandía",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Gandía"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/RubenRuCh"
-      },
-      {
-        "type": "other",
-        "URL": "https://rruger.dev/"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/rrugerdev"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/rruger/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "My favorite music groups",
@@ -54,14 +36,32 @@
         "title": "My learning resources",
         "type": "other",
         "URL": "https://rruger.dev/learning",
+        "summary": "Compilation of the resources I use to learn",
         "authors": [
           {
             "name": "Rubén",
             "surnames": "Rüger",
             "title": "Author"
           }
-        ],
-        "summary": "Compilation of the resources I use to learn"
+        ]
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/rruger/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/RubenRuCh"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/rrugerdev"
+      },
+      {
+        "type": "other",
+        "URL": "https://rruger.dev/"
       }
     ]
   },
@@ -71,8 +71,8 @@
         "organization": {
           "name": "Designable",
           "image": {
-            "alt": "1617284896195.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/cb3e5e5a-84d2-455c-864b-e0ea60d0d446_1617284896195.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/cb3e5e5a-84d2-455c-864b-e0ea60d0d446_1617284896195.jpg",
+            "alt": "1617284896195.jpg"
           },
           "URL": "https://www.designable.es/"
         },
@@ -138,8 +138,8 @@
         "organization": {
           "name": "2byte.es Soluciones Informáticas S.L.",
           "image": {
-            "alt": "logo_2byte_peque.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/2359f830-f738-4433-a223-5b9bc8dadaf8_logo_2byte_peque.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/2359f830-f738-4433-a223-5b9bc8dadaf8_logo_2byte_peque.jpg",
+            "alt": "logo_2byte_peque.jpg"
           },
           "URL": "https://www.2byte.es/"
         },
@@ -199,11 +199,10 @@
       {
         "details": {
           "name": "My portfolio",
-          "description": "",
           "URL": "https://rruger.dev/",
           "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/aab913ef-95d5-40ff-979d-f606df8c35c0_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/aab913ef-95d5-40ff-979d-f606df8c35c0_logo.png",
+            "alt": "logo.png"
           }
         },
         "type": "sideProject",
@@ -237,90 +236,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Laravel",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vuex",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
           "type": "technology"
         }
       },
@@ -332,7 +261,73 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Laravel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Makefile",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
           "type": "technology"
         }
       },
@@ -344,13 +339,19 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Makefile",
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vuex",
           "type": "technology"
         }
       }
@@ -359,238 +360,18 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "TDD: Test-Driven Development",
-        "startDate": "2022-04-01",
-        "finishDate": "2022-05-01",
-        "institution": {
-          "name": "CodelyTV",
-          "description": "TDD, Fake-it, Obvious implementation, Triangulation, Tranformation Priority Premise (TPP), Inside-out, Outside-in, Middle-out, Classic TDD, Mockist TDD, SOLID, YAGNI, DRY, TDD in frontend, TDD in backend, TDD in legacy projects",
-          "URL": "https://pro.codely.tv/library/tdd-test-driven-development-179143/402368/about/",
-          "image": {
-            "alt": "course_tdd.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/02/ab8c2f6b-7e32-411f-a773-cbef0b4cb595_course_tdd.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "Kotlin",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Symfony mantenible y escalable",
-        "startDate": "2022-03-01",
-        "finishDate": "2022-03-01",
-        "institution": {
-          "name": "CodelyTV",
-          "description": "Symfony, Doctrine ORM, Testing, Behat, APIs HTTP, JWT, Monolog, Event Subscriber, Profiling, Docker, Blackfire, Symfony Flex",
-          "URL": "https://pro.codely.tv/library/symfony-mantenible-y-escalable-127478/308903/about/",
-          "image": {
-            "alt": "course_symfony_mantenible_escalable.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/e0207b35-b008-4413-9828-34cffeda3dde_course_symfony_mante.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "Symfony",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Comunicación entre microservicios: Event-Driven Architecture",
-        "startDate": "2022-02-01",
-        "finishDate": "2022-03-01",
-        "institution": {
-          "name": "CodelyTV",
-          "description": "Event-Driven Architecture, Services, Microservices, DDD, CQRS, Event, RabbitMQ, AWS, SNS",
-          "URL": "https://pro.codely.tv/library/comunicacion-entre-microservicios-event-driven-architecture-35834/74823/about/",
-          "image": {
-            "alt": "course_event_driven_architecture.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/52e8e90c-5b70-4e3b-a3fb-559bf7a7aa75_course_event_driven_.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "Scala",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "DDD en TypeScript: Modelado y arquitectura",
-        "startDate": "2022-01-01",
-        "finishDate": "2022-01-01",
-        "institution": {
-          "name": "CodelyTV",
-          "description": "Clean Architecture, Hexagonal Architecture, DDD, Bounded Contexts, Aggregates, Value Objects, Entities, Repository pattern, Shared Kernel, Object Mother, Testing, MongoDB, PostgreSQL, TypeORM, Outside-in",
-          "URL": "https://pro.codely.tv/library/ddd-en-typescript-modelado-y-arquitectura-172533/375662/about/",
-          "image": {
-            "alt": "course_ddd_typescript.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/11acf9c6-fbf9-4316-82fa-d30ef5e2b7fa_course_ddd_typescrip.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "CQRS: Command Query Responsibility Segregation",
-        "startDate": "2022-01-01",
-        "finishDate": "2022-01-01",
-        "institution": {
-          "name": "CodelyTV",
-          "description": "CQRS, Commands, CommandBus, CommandHandler, Queries, QueryBus, QueryHandler, Async bus",
-          "URL": "https://pro.codely.tv/library/cqrs-command-query-responsibility-segregation-29074/62554/about/",
-          "image": {
-            "alt": "course_cqrs.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/1ccf0d10-24b0-4d29-91a9-1095607883de_course_cqrs.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "Scala",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "CQRS y Event Sourcing con Kotlin y Axon Framework",
-        "startDate": "2022-01-01",
-        "finishDate": "2022-01-01",
-        "institution": {
-          "name": "CodelyTV",
-          "description": "DDD, CQRS, Event Sourcing, Event, EventBus, EventHandler, Replay, Upcasting",
-          "URL": "https://pro.codely.tv/library/cqrs-y-event-sourcing-con-kotlin-y-axon-framework-31950/67816/about/",
-          "image": {
-            "alt": "course_cqrs_event_sourcing.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/1a3ffb5e-af60-4ce1-b5c7-c27563407e1b_course_cqrs_event_so.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Kotlin",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Testing: Introducción y buenas prácticas",
-        "startDate": "2021-12-01",
-        "finishDate": "2022-01-01",
-        "institution": {
-          "name": "CodelyTV",
-          "description": "Unit testing, Integration testing, Acceptance testing, Test Pyramid, Object Mother, Fakes, Stubs, Mocks, Dummy, Spy, Flaky tests, SRP in testing, Given-When-Then, Arrange-Act-Assert, Development flow, TDD, Refactoring, Testing legacy code, Continuous Integration",
-          "URL": "https://pro.codely.tv/library/testing-introduccion-y-buenas-practicas-44653/90916/about/",
-          "image": {
-            "alt": "course_testing_buenas_practicas.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/efb19c3f-60ca-4935-8a77-e35de629e509_course_testing_buena.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "Scala",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Domain-Driven Design - DDD Aplicado",
-        "startDate": "2021-11-01",
-        "finishDate": "2021-11-01",
-        "institution": {
-          "name": "CodelyTV",
-          "description": "Clean Architecture, Hexagonal Architecture, DDD, Bounded Contexts, Aggregates, Value Objects, Entities, Repository pattern, Domain Events, Anticorruption Layer, Shared Kernel, CQRS, Read Model, Ubiquitous Language",
-          "URL": "https://pro.codely.tv/library/domain-driven-design-ddd-aplicado-42952/87157/about/",
-          "image": {
-            "alt": "course_ddd_aplicado.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/009cd61c-9f00-47a1-b0e7-219aaa3007c0_course_ddd_aplicado.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "Scala",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "Arquitectura Hexagonal",
         "startDate": "2021-07-01",
-        "finishDate": "2021-11-01",
         "institution": {
           "name": "CodelyTV",
           "description": "Clean Architecture, Hexagonal Architecture, Testing",
           "URL": "https://pro.codely.tv/library/arquitectura-hexagonal-31201/66748/about/",
           "image": {
-            "alt": "course_arquitectura_hexagonal.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/9f2e381b-536c-4a2c-9800-132881b6045e_course_arquitectura_.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/9f2e381b-536c-4a2c-9800-132881b6045e_course_arquitectura_.jpg",
+            "alt": "course_arquitectura_hexagonal.jpg"
           }
         },
+        "finishDate": "2021-11-01",
         "linkedCompetences": [
           {
             "name": "PHP",
@@ -598,138 +379,6 @@
           },
           {
             "name": "Scala",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Principios SOLID aplicados",
-        "startDate": "2021-06-01",
-        "finishDate": "2021-06-01",
-        "institution": {
-          "name": "CodelyTV",
-          "description": "Clean Code, SOLID",
-          "URL": "https://pro.codely.tv/library/principios-solid-aplicados-36875/77070/about/",
-          "image": {
-            "alt": "course_principios_solid_aplicados.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/82480b12-50a6-4e36-b19a-055712ed58a1_course_principios_so.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "Scala",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
-        "startDate": "2021-05-01",
-        "finishDate": "2021-06-01",
-        "institution": {
-          "name": "Udemy (Maximilian Schwarzmüller)",
-          "description": "Introduction to React, Redux, React Router, React Hooks, Custom Hooks, Animations, SPA, Testing",
-          "URL": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
-          "image": {
-            "alt": "course_react_complete_guide.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/e3eeeb89-5ee6-461e-ab50-7fd6dc7ba8d0_course_react_complet.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "NextJS",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "TypeScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Vue - The Complete Guide (w/ Router, Vuex, Composition API)",
-        "startDate": "2021-03-01",
-        "finishDate": "2021-04-01",
-        "institution": {
-          "name": "Udemy (Maximilian Schwarzmüller)",
-          "description": "Introduction to Vue, Vuex, Vue Router, Composition API, Animations, SPA",
-          "URL": "https://www.udemy.com/course/vuejs-2-the-complete-guide/",
-          "image": {
-            "alt": "course_vue_complete_guide.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/4ae3e9eb-1354-410f-aee7-0795de25947e_course_vue_complete_.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "Vue",
-            "type": "technology"
-          },
-          {
-            "name": "Vuex",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress",
-        "startDate": "2019-11-01",
-        "finishDate": "2020-01-01",
-        "institution": {
-          "name": "Udemy (Víctor Robles)",
-          "description": "Introduction to PHP, POO, MVC, Databases",
-          "URL": "https://www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress/",
-          "image": {
-            "alt": "course_master_php.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/d7295f3e-8ea2-4e3b-84b7-a406f4445e74_course_master_php.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Laravel",
-            "type": "technology"
-          },
-          {
-            "name": "MVC",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "Symfony",
             "type": "technology"
           }
         ]
@@ -739,16 +388,15 @@
         "degreeAchieved": true,
         "name": "CFGS DAW (Web applications development)",
         "startDate": "2019-09-01",
-        "finishDate": "2021-05-01",
         "institution": {
           "name": "IES María Enríquez",
-          "description": "",
           "URL": "https://portal.edu.gva.es/mariaenriquez/",
           "image": {
-            "alt": "cropped-Logo-ME-1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/3f3f8ee3-b6b6-45fd-862b-d1a9c1ea21b0_cropped-logo-me-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/3f3f8ee3-b6b6-45fd-862b-d1a9c1ea21b0_cropped-logo-me-1.png",
+            "alt": "cropped-Logo-ME-1.png"
           }
         },
+        "finishDate": "2021-05-01",
         "linkedCompetences": [
           {
             "name": ".NET",
@@ -771,7 +419,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -815,6 +463,378 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "CQRS y Event Sourcing con Kotlin y Axon Framework",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "DDD, CQRS, Event Sourcing, Event, EventBus, EventHandler, Replay, Upcasting",
+          "URL": "https://pro.codely.tv/library/cqrs-y-event-sourcing-con-kotlin-y-axon-framework-31950/67816/about/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/1a3ffb5e-af60-4ce1-b5c7-c27563407e1b_course_cqrs_event_so.jpg",
+            "alt": "course_cqrs_event_sourcing.jpg"
+          }
+        },
+        "finishDate": "2022-01-01",
+        "linkedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "CQRS: Command Query Responsibility Segregation",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "CQRS, Commands, CommandBus, CommandHandler, Queries, QueryBus, QueryHandler, Async bus",
+          "URL": "https://pro.codely.tv/library/cqrs-command-query-responsibility-segregation-29074/62554/about/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/1ccf0d10-24b0-4d29-91a9-1095607883de_course_cqrs.jpg",
+            "alt": "course_cqrs.jpg"
+          }
+        },
+        "finishDate": "2022-01-01",
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Comunicación entre microservicios: Event-Driven Architecture",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Event-Driven Architecture, Services, Microservices, DDD, CQRS, Event, RabbitMQ, AWS, SNS",
+          "URL": "https://pro.codely.tv/library/comunicacion-entre-microservicios-event-driven-architecture-35834/74823/about/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/52e8e90c-5b70-4e3b-a3fb-559bf7a7aa75_course_event_driven_.jpg",
+            "alt": "course_event_driven_architecture.jpg"
+          }
+        },
+        "finishDate": "2022-03-01",
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "DDD en TypeScript: Modelado y arquitectura",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Clean Architecture, Hexagonal Architecture, DDD, Bounded Contexts, Aggregates, Value Objects, Entities, Repository pattern, Shared Kernel, Object Mother, Testing, MongoDB, PostgreSQL, TypeORM, Outside-in",
+          "URL": "https://pro.codely.tv/library/ddd-en-typescript-modelado-y-arquitectura-172533/375662/about/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/11acf9c6-fbf9-4316-82fa-d30ef5e2b7fa_course_ddd_typescrip.jpg",
+            "alt": "course_ddd_typescript.jpg"
+          }
+        },
+        "finishDate": "2022-01-01",
+        "linkedCompetences": [
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Domain-Driven Design - DDD Aplicado",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Clean Architecture, Hexagonal Architecture, DDD, Bounded Contexts, Aggregates, Value Objects, Entities, Repository pattern, Domain Events, Anticorruption Layer, Shared Kernel, CQRS, Read Model, Ubiquitous Language",
+          "URL": "https://pro.codely.tv/library/domain-driven-design-ddd-aplicado-42952/87157/about/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/009cd61c-9f00-47a1-b0e7-219aaa3007c0_course_ddd_aplicado.jpg",
+            "alt": "course_ddd_aplicado.jpg"
+          }
+        },
+        "finishDate": "2021-11-01",
+        "linkedCompetences": [
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Master en PHP, SQL, POO, MVC, Laravel, Symfony, WordPress",
+        "startDate": "2019-11-01",
+        "institution": {
+          "name": "Udemy (Víctor Robles)",
+          "description": "Introduction to PHP, POO, MVC, Databases",
+          "URL": "https://www.udemy.com/course/master-en-php-sql-poo-mvc-laravel-symfony-4-wordpress/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/d7295f3e-8ea2-4e3b-84b7-a406f4445e74_course_master_php.jpg",
+            "alt": "course_master_php.jpg"
+          }
+        },
+        "finishDate": "2020-01-01",
+        "linkedCompetences": [
+          {
+            "name": "Laravel",
+            "type": "technology"
+          },
+          {
+            "name": "MVC",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "Symfony",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Principios SOLID aplicados",
+        "startDate": "2021-06-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Clean Code, SOLID",
+          "URL": "https://pro.codely.tv/library/principios-solid-aplicados-36875/77070/about/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/82480b12-50a6-4e36-b19a-055712ed58a1_course_principios_so.jpg",
+            "alt": "course_principios_solid_aplicados.jpg"
+          }
+        },
+        "finishDate": "2021-06-01",
+        "linkedCompetences": [
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "startDate": "2021-05-01",
+        "institution": {
+          "name": "Udemy (Maximilian Schwarzmüller)",
+          "description": "Introduction to React, Redux, React Router, React Hooks, Custom Hooks, Animations, SPA, Testing",
+          "URL": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/e3eeeb89-5ee6-461e-ab50-7fd6dc7ba8d0_course_react_complet.jpg",
+            "alt": "course_react_complete_guide.jpg"
+          }
+        },
+        "finishDate": "2021-06-01",
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Symfony mantenible y escalable",
+        "startDate": "2022-03-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Symfony, Doctrine ORM, Testing, Behat, APIs HTTP, JWT, Monolog, Event Subscriber, Profiling, Docker, Blackfire, Symfony Flex",
+          "URL": "https://pro.codely.tv/library/symfony-mantenible-y-escalable-127478/308903/about/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/e0207b35-b008-4413-9828-34cffeda3dde_course_symfony_mante.jpg",
+            "alt": "course_symfony_mantenible_escalable.jpg"
+          }
+        },
+        "finishDate": "2022-03-01",
+        "linkedCompetences": [
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Symfony",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "TDD: Test-Driven Development",
+        "startDate": "2022-04-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "TDD, Fake-it, Obvious implementation, Triangulation, Tranformation Priority Premise (TPP), Inside-out, Outside-in, Middle-out, Classic TDD, Mockist TDD, SOLID, YAGNI, DRY, TDD in frontend, TDD in backend, TDD in legacy projects",
+          "URL": "https://pro.codely.tv/library/tdd-test-driven-development-179143/402368/about/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/02/ab8c2f6b-7e32-411f-a773-cbef0b4cb595_course_tdd.jpg",
+            "alt": "course_tdd.jpg"
+          }
+        },
+        "finishDate": "2022-05-01",
+        "linkedCompetences": [
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Testing: Introducción y buenas prácticas",
+        "startDate": "2021-12-01",
+        "institution": {
+          "name": "CodelyTV",
+          "description": "Unit testing, Integration testing, Acceptance testing, Test Pyramid, Object Mother, Fakes, Stubs, Mocks, Dummy, Spy, Flaky tests, SRP in testing, Given-When-Then, Arrange-Act-Assert, Development flow, TDD, Refactoring, Testing legacy code, Continuous Integration",
+          "URL": "https://pro.codely.tv/library/testing-introduccion-y-buenas-practicas-44653/90916/about/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/efb19c3f-60ca-4935-8a77-e35de629e509_course_testing_buena.jpg",
+            "alt": "course_testing_buenas_practicas.jpg"
+          }
+        },
+        "finishDate": "2022-01-01",
+        "linkedCompetences": [
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Vue - The Complete Guide (w/ Router, Vuex, Composition API)",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "Udemy (Maximilian Schwarzmüller)",
+          "description": "Introduction to Vue, Vuex, Vue Router, Composition API, Animations, SPA",
+          "URL": "https://www.udemy.com/course/vuejs-2-the-complete-guide/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/12/4ae3e9eb-1354-410f-aee7-0795de25947e_course_vue_complete_.jpg",
+            "alt": "course_vue_complete_guide.jpg"
+          }
+        },
+        "finishDate": "2021-04-01",
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          },
+          {
+            "name": "Vuex",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -822,9 +842,20 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/rruger/"
+          "URL": "https://www.linkedin.com/in/rruger/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/RubenRuCh",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/rrugerdev",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "contact@rruger.dev"
       ]
     },
     "preferences": {
@@ -857,5 +888,19 @@
       ]
     },
     "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "My dream job is to be part of a product-focused development team, giving maximum priority to delivering value to the user through constant releases, and producing code of quality and correctly tested.\n\nLeaving aside the technical aspect, I would be charmed if that development team were supported by a company / project that causes some kind of positive effect on society, while offering me a competitive salary with a good family balance, full remote work, and that allows me to grow professionally.\n\n",
+    "goodPractices": "Hexagonal Architecture, SOLID, DDD, TDD, ATDD, CQRS, Event Sourcing",
+    "projects": [
+      {
+        "name": "My portfolio"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "My learning resources"
+      }
+    ]
   }
 }
